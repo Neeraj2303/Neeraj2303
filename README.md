@@ -77,14 +77,6 @@
 
 ---
 
-## 🔹 GitHub Stats
-![Neeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neeraj2303&show_icons=true)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj2303&layout=compact)
-
----
-
 ## 🔹 Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/neeraj-sukumaran
@@ -92,9 +84,4 @@
 - 🌐 Portfolio: Working on it 😁
 
 ---
-
-![Neeraj's Stats (Dark)](https://github-readme-stats.vercel.app/api?username=Neeraj2303&show_icons=true&theme=dark)
-
-
-![Neeraj's Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj2303&layout=compact&langs_count=8)
 
